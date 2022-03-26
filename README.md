@@ -2,8 +2,10 @@
 
 ```mermaid
   graph TD;
-      A[Nederlands Soortenregister]-->B[Wikidata];
-      B-->C[Wikipedia];
-      B-->D;
-      C-->D;
+      NS[Nederlands Soortenregister]-->WD[Wikidata];
+      WD-->WP[Wikipedia];
+      G[Gbif]-->WD;
+      I[iNaturalist]-->WD;
+      DOI[Literature]-->WD;
+      ORCID[Person]-->WD;
 ```
