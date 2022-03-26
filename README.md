@@ -2,7 +2,7 @@
 
 ```mermaid
   graph TD;
-      NS[Nederlands Soortenregister]-->WD[Wikidata];
+      NS[Nederlands Soortenregister]-->|Trixidata notebook|WD[Wikidata];
       WD-->WP[Wikipedia];
       G[Gbif]-->WD;
       I[iNaturalist]-->WD;
