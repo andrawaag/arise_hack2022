@@ -8,4 +8,5 @@
       I[iNaturalist]-->WD;
       DOI[Literature]-->WD;
       ORCID[Person]-->WD;
+      WD-->EE[Entity Explosion]
 ```
