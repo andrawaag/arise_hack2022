@@ -2,7 +2,7 @@
 
 ```mermaid
   graph TD;
-      A[Nederlands Soortenregister]--[export CSV]-->B[Wikidata];
+      A[Nederlands Soortenregister]-->B[Wikidata];
       B-->C[Wikipedia];
       B-->D;
       C-->D;
