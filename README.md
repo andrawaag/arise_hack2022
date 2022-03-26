@@ -2,8 +2,8 @@
 
 ```mermaid
   graph TD;
-      NS[Nederlands Soortenregister]-->|Trixidata notebook|WD[Wikidata];
-      WD-->WP[Wikipedia];
+      NS[Nederlands Soortenregister]==>|Trixidata notebook|WD[Wikidata];
+      WD==>|Trixidata notebook|WP[Wikipedia];
       G[Gbif]-->WD;
       I[iNaturalist]-->WD;
       DOI[Literature]-->WD;
