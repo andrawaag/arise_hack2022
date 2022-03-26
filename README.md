@@ -2,7 +2,7 @@
 
 ```mermaid
   graph TD;
-      A-->B;
+      A[Browse nederlandsesoorten.nl]-->B;
       A-->C;
       B-->D;
       C-->D;
