@@ -2,8 +2,8 @@
 
 ```mermaid
   graph TD;
-      A[Browse nederlandsesoorten.nl]-->B;
-      A-->C;
+      A[Nederlands Soortenregister]-- export CSV -->B;
+      B-->C[Search Wikidata;
       B-->D;
       C-->D;
 ```
