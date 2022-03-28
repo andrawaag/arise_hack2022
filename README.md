@@ -28,6 +28,6 @@
 ```mermaid
   graph TD;
       XC[Xeno Canto]<==>WD[Wikidata];
-      XC[Xeno Canto]<==>WD[Wikimedia Commons];
+      XC[Xeno Canto]<==>WC[Wikimedia Commons];
       WC <==> WD;
 ```
