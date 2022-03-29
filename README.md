@@ -27,12 +27,12 @@ We started the following list of Wikipedia articles based on the results extract
 1. [Aedes_atropalpus](https://en.wikipedia.org/wiki/Aedes_atropalpus)
 2. [Verbena_incompta](https://nl.wikipedia.org/wiki/Verbena_incompta)
 
-== Suplimentary reuse examples ==
+## Suplimentary reuse examples 
 
-## Linking collections with collectors from the carribean through Wikidata
+### Linking collections with collectors from the carribean through Wikidata
 Building on earlier work done in previous hackathon (e.g. [Alien CSI Hackathon](https://github.com/alien-csi/alien-csi-hackathon), we started linking collectors, collections and their species using Wikidata. Starting from a [spreadsheet](https://docs.google.com/spreadsheets/d/1lcElRFJHOfcZTsgzjbx1jEgpEAAgcn4GJ0MnvU80TM0/edit?usp=sharing). links are made with Wikidata. Once aligned we can link them to other parts in Wikidata. 
 
-## What do green iguana eet
+### What do green iguana eet
 Using the same workflow as in the trixidata notebook, it was possible to identify missing Wikipedia articles from a set of plantspecies that are eaten by iguanas. 55 prospective new Wikipedia articles have been identified for future writing starting for a slightly different input set then the Nederlnadse Soorten Register
 
 
