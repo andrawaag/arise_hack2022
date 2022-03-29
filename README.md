@@ -26,6 +26,7 @@ Once aligned we are able to identify:
 We started the following list of Wikipedia articles based on the results extracted with the Notebook.
 1. [Aedes_atropalpus](https://en.wikipedia.org/wiki/Aedes_atropalpus)
 2. [Verbena_incompta](https://nl.wikipedia.org/wiki/Verbena_incompta)
+3. [Lasius_grandis](https://en.wikipedia.org/wiki/Lasius_grandis)
 
 ## Suplimentary reuse examples 
 
