@@ -28,6 +28,7 @@ We started the following list of Wikipedia articles based on the results extract
 2. [Verbena_incompta](https://nl.wikipedia.org/wiki/Verbena_incompta)
 3. [Lasius_grandis](https://en.wikipedia.org/wiki/Lasius_grandis)
 4. [Telostylinus_lineolatus](https://en.wikipedia.org/wiki/Telostylinus_lineolatus)
+5. [Pogonosoma_maroccanum](https://en.wikipedia.org/wiki/Pogonosoma_maroccanum)
 
 ## Suplimentary reuse examples 
 
