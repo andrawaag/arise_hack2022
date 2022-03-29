@@ -29,6 +29,9 @@ We started the following list of Wikipedia articles based on the results extract
 3. [Lasius_grandis](https://en.wikipedia.org/wiki/Lasius_grandis)
 4. [Telostylinus_lineolatus](https://en.wikipedia.org/wiki/Telostylinus_lineolatus)
 5. [Pogonosoma_maroccanum](https://en.wikipedia.org/wiki/Pogonosoma_maroccanum)
+6. [Horidiplosis_ficifolii](https://en.wikipedia.org/wiki/Horidiplosis_ficifolii)
+
+These Wikipedia articles are stubs and needs future expanding. 
 
 ## Suplimentary reuse examples 
 
